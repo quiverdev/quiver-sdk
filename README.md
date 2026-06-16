@@ -1,4 +1,4 @@
-# QuiverSDK
+<h1 align="center">quiver-sdk</h1>
 
 <div align="center">
 
