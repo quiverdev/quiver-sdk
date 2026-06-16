@@ -2,11 +2,24 @@
 
 <div align="center">
 
-[![PyPI version](https://img.shields.io/pypi/v/quiver-sdk.svg?style=flat-square)](https://pypi.org/project/quiver-sdk/)
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-Apache%202.0-green?style=flat-square)](LICENSE)
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square)](#testing)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+<!-- Badges -->
+<p align="center">
+  <a href="https://pypi.org/project/quiver-sdk/">
+    <img src="https://img.shields.io/pypi/v/quiver-sdk?style=flat-square&color=blue" alt="PyPI version">
+  </a>
+  <a href="https://pypi.org/project/quiver-sdk/">
+    <img src="https://img.shields.io/pypi/pyversions/quiver-sdk?style=flat-square" alt="Python versions">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/quiverdev/quiver-sdk?style=flat-square" alt="License">
+  </a>
+  <a href="https://pypi.org/project/quiver-sdk/">
+    <img src="https://img.shields.io/pypi/dm/quiver-sdk?style=flat-square" alt="PyPI downloads">
+  </a>
+  <a href="https://github.com/quiverdev/quiver-sdk/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/quiverdev/quiver-sdk/publish.yml?style=flat-square&label=tests" alt="Tests">
+  </a>
+</p>
 
 **The official Python SDK for building AI agents with the Quiver runtime.**
 
