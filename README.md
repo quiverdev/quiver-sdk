@@ -1,4 +1,4 @@
-# quiver-sdk
+# QuiverSDK
 
 <div align="center">
 
@@ -714,8 +714,5 @@ Apache 2.0 — see [LICENSE](LICENSE)
 ---
 
 ## Links
-
-- [Documentation](https://docs.quiver.dev/sdk/overview)
 - [GitHub](https://github.com/quiverdev/quiver-sdk)
 - [PyPI](https://pypi.org/project/quiver-sdk/)
-- [Discord](https://discord.gg/quiver)
